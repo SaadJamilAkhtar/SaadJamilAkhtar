@@ -38,6 +38,8 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?logo=pycharm)
+  ![Web Storm](https://img.shields.io/badge/-Web%20Storm-333333?logo=webstorm)
 
 <br/>
 
