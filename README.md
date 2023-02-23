@@ -5,7 +5,7 @@
 
 - Exploring new technologies and developing software solutions and quick hacks.
 - Studied Software Engineering at National University of Science and Technology.
-- Working as a Software Engineer at Devsinc.
+- Working as a Software Engineer.
 - Learning more about Web technologies and cyber security.
 
 <h3>Tech Stack</h3>
