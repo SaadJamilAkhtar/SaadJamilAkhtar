@@ -58,6 +58,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/saadjamilakhtar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saad%20Jamil-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:saadjamilakhtar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saadjamilakhtar@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="saadjamil.me"><img alt="Email" src="https://img.shields.io/badge/Website-saadjamil.me-white?logo=googlechrome&logoColor=white"></a>
+<a href="mailto:saadjamilakhtar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saadjamilakhtar@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="saadjamil.me"><img alt="Email" src="https://img.shields.io/badge/Website-saadjamil.me-blue?logo=googlechrome&logoColor=white"></a>
 </p>
