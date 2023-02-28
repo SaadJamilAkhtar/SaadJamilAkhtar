@@ -59,6 +59,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/saadjamilakhtar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saad%20Jamil-blue?style=flat-square&logo=linkedin&logoColor=blue"></a>
 <a href="mailto:saadjamilakhtar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saadjamilakhtar@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="saadjamil.me"><img alt="Email" src="https://img.shields.io/badge/Website-saadjamil.me-blue?logo=googlechrome&logoColor=white"></a>
+<a href="https://saadjamil.me"><img alt="Email" src="https://img.shields.io/badge/Website-saadjamil.me-blue?logo=googlechrome&logoColor=white"></a>
 <a href="https://www.upwork.com/freelancers/~010c165fcba0e61fed"><img alt="Email" src="https://img.shields.io/badge/Upwork-Saad%20J.-blue?logo=upwork"></a>
 </p>
