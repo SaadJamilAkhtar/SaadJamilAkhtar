@@ -8,23 +8,18 @@
 
 - Programming Languages:
   - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   - ![Bash](https://img.shields.io/badge/-Bash%20Scripting-333333)
   - ![C](https://img.shields.io/badge/-C%20language-333333?logo=C)
+  - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
 - Web Development:
-  - ![Django](https://img.shields.io/badge/-Django%20Python-333333?logo=django)
-  - ![Django REST Framework](https://img.shields.io/badge/-Django%20REST-333333)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  - ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  - ![Django](https://img.shields.io/badge/-Django%20Python-333333?logo=django) ![Django REST Framework](https://img.shields.io/badge/-Django%20REST-333333)
+  - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-333333?logo=redux)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express%20JS%20-333333?logo=express)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   - ![SCSS](https://img.shields.io/badge/-SCSS-333333?logo=sass)
   - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  - ![Express.js](https://img.shields.io/badge/-Express%20JS%20-333333?logo=express)
-  - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  - ![Redux](https://img.shields.io/badge/-Redux-333333?logo=redux)
 
 - Databases:
   - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
