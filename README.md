@@ -22,10 +22,10 @@
   - ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=) ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=) ![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Materializen&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
 
 - Databases:
-  - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  - ![Postgresql](https://img.shields.io/badge/-PostgresQL-333333?logo=postgresql)
-  - ![SQLite](https://img.shields.io/badge/-SQLite-333333?logo=sqlite)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  - ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+  - ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+  - ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+  - ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
   - ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
 
 - Version Control and Tools:
@@ -35,6 +35,7 @@
   - ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   - ![Linux](https://img.shields.io/badge/-Linux-333333?logo=ubuntu)
   - ![Amazon Redshift](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Redshift&color=8C4FFF&logo=Amazon+Redshift&logoColor=FFFFFF&label=) ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=) ![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=) ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=) ![Lambda](https://img.shields.io/badge/-AWS+Lambda-333333?style=flat&logo=Java&logoColor=007396)
+  - ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 
 - IDEs and Editors:
   - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
