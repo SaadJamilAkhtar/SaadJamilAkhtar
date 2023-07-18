@@ -7,31 +7,34 @@
 <h3>Tech Stack</h3>
 
 - Programming Languages:
-  - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  - ![Bash](https://img.shields.io/badge/-Bash%20Scripting-333333)
-  - ![C](https://img.shields.io/badge/-C%20language-333333?logo=C)
+  - ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+  - ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+  - ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
   - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  - ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 
 - Web Development:
-  - ![Django](https://img.shields.io/badge/-Django%20Python-333333?logo=django) ![Django REST Framework](https://img.shields.io/badge/-Django%20REST-333333)
-  - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-333333?logo=redux)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express%20JS%20-333333?logo=express)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  - ![SCSS](https://img.shields.io/badge/-SCSS-333333?logo=sass)
-  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  - ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![Django REST Framework](https://img.shields.io/badge/-Django%20REST-333333)
+  - ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=) ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=) ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
+  - ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) ![Express.js](https://img.shields.io/badge/-Express%20JS%20-333333?logo=express)
+  - ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+  - ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
+  - ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=) ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=) ![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Materializen&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
 
 - Databases:
   - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   - ![Postgresql](https://img.shields.io/badge/-PostgresQL-333333?logo=postgresql)
   - ![SQLite](https://img.shields.io/badge/-SQLite-333333?logo=sqlite)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  - ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
 
 - Version Control and Tools:
   - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  - ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
   - ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   - ![Linux](https://img.shields.io/badge/-Linux-333333?logo=ubuntu)
+  - ![Amazon Redshift](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Redshift&color=8C4FFF&logo=Amazon+Redshift&logoColor=FFFFFF&label=) ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=) ![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=) ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=) ![Lambda](https://img.shields.io/badge/-AWS+Lambda-333333?style=flat&logo=Java&logoColor=007396)
 
 - IDEs and Editors:
   - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
