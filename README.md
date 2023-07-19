@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-- I am passionate about exploring new technologies and developing innovative software solutions. With a background in Software Engineering from the National University of Science and Technology, I strive to stay updated with the latest trends in web technologies and cybersecurity.
+As a seasoned software engineer, I thrive on exploring emerging technologies and crafting innovative software solutions. With extensive experience in the field, I possess a deep understanding of web technologies and cybersecurity trends. 
 
 <h3>Tech Stack</h3>
 
