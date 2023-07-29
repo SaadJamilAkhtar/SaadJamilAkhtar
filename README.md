@@ -62,5 +62,5 @@ As a seasoned software engineer, I thrive on exploring emerging technologies and
   <a href="https://www.linkedin.com/in/saadjamilakhtar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saad%20Jamil-blue?style=flat-square&logo=linkedin&logoColor=blue"></a>
   <a href="mailto:saadjamilakhtar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saadjamilakhtar@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://saadjamil.me"><img alt="Website" src="https://img.shields.io/badge/Website-saadjamil.me-blue?logo=googlechrome&logoColor=white"></a>
-  <a href="https://medium.com/@saadjamilakhtar"><img alt="Medium" src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label="></a>
+  <a href="https://medium.com/@saadjamilakhtar"><img alt="Medium" src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium/@saadjamilakhtar&color=000000&logo=Medium&logoColor=FFFFFF&label="></a>
 </p>
