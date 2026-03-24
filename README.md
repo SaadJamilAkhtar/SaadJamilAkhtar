@@ -1,66 +1,57 @@
-![<h2> Hello there! I'm Saad Jamil, a Software Engineer.</h2>](https://github.com/SaadJamilAkhtar/Project-Images/blob/master/github-banner-main.png?raw=true)
-
-<!--- <h2> Hello there! I'm Saad Jamil, a Software Engineer.</h2> -->
+![Hello](https://github.com/SaadJamilAkhtar/Project-Images/blob/master/github-banner.png?raw=true)
 
 <h3>About Me</h3>
 
-👋 Hi! I'm Saad, a Senior Software Engineer specializing in full-stack and data engineering. Passionate about crafting secure, high-performance web solutions, I lead teams to push the boundaries of technology and innovation. Explore my GitHub to see how I turn challenges into opportunities for advancement. Let's create something impactful together!
+Backend systems engineer focused on building systems that handle real-world complexity — integrations, data pipelines, and production load.
+
+Most of my work revolves around:
+- defining service boundaries  
+- designing reliable data flows  
+- handling third-party integrations without breaking systems under scale  
+
+<h3>Core Focus</h3>
+
+- Backend systems (Django / DRF)
+- API design and integrations
+- Data pipelines (BigQuery, ETL)
+- Real-time systems (WebSockets, async processing)
+- Full-stack systems when needed
+
+<h3>Selected Work</h3>
+
+- GoOrderz (v2) — redesigned system architecture, centralized business logic, handled multiple integrations, supports ~1k daily orders  
+- Marketing Analytics Platform (Cassandra) — built incrementality testing and data pipelines processing millions of rows  
+- AE Tool — automated reconciliation workflows, reduced report time by 95%  
 
 <h3>Tech Stack</h3>
 
-- Programming Languages:
-  - ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-    ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-    ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
-    ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=222222&logoColor=F7DF1E&label=)
-    ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+- Backend & Systems:
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![DRF](https://img.shields.io/badge/DRF-0A0A0A?style=for-the-badge&logo=django&logoColor=white)
+  ![REST](https://img.shields.io/badge/REST_APIs-1F2937?style=for-the-badge)
+  ![Microservices](https://img.shields.io/badge/Microservices-374151?style=for-the-badge)
+  ![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=for-the-badge)
 
-- Web Development:
-  - ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![Django REST Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Django+REST&color=092E20&logo=Django&logoColor=FFFFFF&label=)
-    ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=) ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=) ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-    ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) ![Express.js](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=222222&logo=express&logoColor=61DAFB&label=)
-    ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-    ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
-    ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=) ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=) ![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Materializen&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
+- Data:
+  ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- Databases:
-  - ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-  ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-  ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
-  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-  ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
+- Frontend (when needed):
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-- Version Control and Tools:
-  - ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-  ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
-  ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
-  ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
-  ![Amazon Redshift](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Redshift&color=8C4FFF&logo=Amazon+Redshift&logoColor=FFFFFF&label=) ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=) ![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=) ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=) ![Amazon Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Lambda&color=222222&logoColor=FF9900&label=)
-  ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=) ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+<h3>GitHub Stats</h3>
 
-- IDEs and Editors:
-  - ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-  ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
-  ![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&message=WebStorm&color=000000&logo=WebStorm&logoColor=FFFFFF&label=)
-
-<br/>
-<br/>
-
-<h2>My GitHub History !</h2>
-
-<a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaadJamilAkhtar&theme=buefy&show_icons=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadJamilAkhtar&theme=buefy&layout=compact" /> -->
+<a href="https://github.com/SaadJamilAkhtar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaadJamilAkhtar&show_icons=true" />
 </a>
 
-<br/>
-
-<h3> Connect with Me </h3>
+<h3>Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saadjamilakhtar/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Saad+Jamil&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="></a>
-  <a href="mailto:saadjamilakhtar@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=saadjamilakhtar@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="></a>
-  <a href="https://saadjamil.me"><img alt="Website" src="https://img.shields.io/static/v1?style=for-the-badge&message=saadjamil.me&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label="></a>
-  <a href="https://medium.com/@saadjamilakhtar"><img alt="Medium" src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium/@saadjamilakhtar&color=000000&logo=Medium&logoColor=FFFFFF&label="></a>
+  <a href="https://www.linkedin.com/in/saadjamilakhtar/"><img src="https://img.shields.io/badge/LinkedIn-Saad%20Jamil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saadjamilakhtar@gmail.com"><img src="https://img.shields.io/badge/Email-saadjamilakhtar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://saadjamil.me"><img src="https://img.shields.io/badge/Website-saadjamil.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://medium.com/@saadjamilakhtar"><img src="https://img.shields.io/badge/Medium-@saadjamilakhtar-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
