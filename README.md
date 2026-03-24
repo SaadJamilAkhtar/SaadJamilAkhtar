@@ -19,25 +19,25 @@ Most of my work revolves around:
 
 <h3>Selected Work</h3>
 
-- GoOrderz (v2) — redesigned system architecture, centralized business logic, handled multiple integrations, supports ~1k daily orders  
-- Marketing Analytics Platform (Cassandra) — built incrementality testing and data pipelines processing millions of rows  
-- AE Tool — automated reconciliation workflows, reduced report time by 95%  
+- GoOrderz (v2) -> redesigned system architecture, centralized business logic, handled multiple integrations, supports ~1k daily orders  
+- Marketing Analytics Platform (Cassandra) —> built incrementality testing and data pipelines processing millions of rows  
+- AE Tool —> automated reconciliation workflows, reduced report time by 95%  
 
 <h3>Tech Stack</h3>
 
-- Backend & Systems:
+- Backend & Systems:  
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![DRF](https://img.shields.io/badge/DRF-0A0A0A?style=for-the-badge&logo=django&logoColor=white)
   ![REST](https://img.shields.io/badge/REST_APIs-1F2937?style=for-the-badge)
   ![Microservices](https://img.shields.io/badge/Microservices-374151?style=for-the-badge)
   ![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=for-the-badge)
 
-- Data:
+- Data:  
   ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- Frontend (when needed):
+- Frontend:  
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
